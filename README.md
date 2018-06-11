@@ -19,3 +19,5 @@
 !tensorflowjs_converter --input_format=tf_frozen_model --output_node_names='output_node'  FF_OD_RGB_squeeze_13Oct.pb profile/
 
 Where the profile  is the folder to which we want our saved models.
+
+Run the above ".ipynb" file in google colab to get your zip folder.
